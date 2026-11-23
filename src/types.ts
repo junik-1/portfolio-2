@@ -17,5 +17,6 @@ export type Profile = {
   role: string
   intro: string
   email: string
+  photo: string
   links: { label: string; href: string }[]
 }

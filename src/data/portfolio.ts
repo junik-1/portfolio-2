@@ -7,6 +7,7 @@ export const profile: Profile = {
   role: 'Developer & designer', // change to Junik's real title
   intro: 'I build clear, useful things for the web. Take a look at what I have been working on.',
   email: 'junik@example.com', // change to Junik's real email
+  photo: '/dice.png',
   links: [
     { label: 'GitHub', href: 'https://github.com/junik-1' },
     { label: 'LinkedIn', href: 'https://linkedin.com/' },
